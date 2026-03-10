@@ -1,4 +1,4 @@
-const API_BASE = 'https://nuevo-proyecto-vyyl.onrender.com/api'; // <- cambiar por la URL de Render o localhost:4000/api
+const API_BASE = 'https://nuevo-proyecto-vyyl.onrender.com'; // <- cambiar por la URL de Render o localhost:4000/api
 
 // --- Helper ---
 function setToken(token) { localStorage.setItem('token', token); }
